@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamNegi123
-- 👀 I’m interested in front-end devlopment
-- 🌱 I’m currently learning advance js and working as a fresher web devloper
-- 💞️ I’m looking to collaborate on fresher web devloper
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning advance js and working as a fresher web developer
+- 💞️ I’m looking to collaborate on fresher web developer
 - 📫 How to reach me ...
 
 <!---
